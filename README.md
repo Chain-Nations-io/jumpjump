@@ -12,7 +12,7 @@ Quick start
 
 To run development mode:
 
---npx webpack-dev-server
+-- npx webpack-dev-server
 
 then go to http://localhost:8080
 
