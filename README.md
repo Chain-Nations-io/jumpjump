@@ -20,3 +20,4 @@ To build the project:
 
 -- npx webpack
 
+Note this game mode is still in development.
