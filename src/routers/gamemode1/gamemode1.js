@@ -1,6 +1,5 @@
 'use strict';
 
-import { setTimeout } from 'timers';
 import { basketMap } from '../maps/basket';
 import { player } from '../player/player';
 // import { currentState } from '../../states/state';
