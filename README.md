@@ -5,7 +5,9 @@ A simple jumpjump game made by hadrienrivere/chainnations.tk
 Quick start
 
 -- git clone https://github.com/Enable3D-Game-Modes/jumpjump.git
+
 -- cd jumpjump
+
 -- npm i 
 
 To run development mode:
